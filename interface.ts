@@ -14,7 +14,6 @@ interface Vehicle {
     addPassenger(passenger: Passenger): void;
     removePassenger(passenger: Passenger): void;
 }
-// travelTo({
-//     x: 1,
-//     y: 2
-// });
+// taxi-1 => 2323 abc 213
+// taxi_1.currentLocaiton =>
+// taxi_1.travelTo()
